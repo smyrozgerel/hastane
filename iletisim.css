@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.logo{height:70px; margin-left:55px;}
+
+.navbar-nav{margin-right:75px;}
+
+.menu a{color:#FFF;}
+
+.bannerpic{margin-top:50px; width:100%; margin-bottom:50px;}
+
+
+.iletisim{width:90%; height:330px; margin:auto;}
+h2{text-align:center; font-weight:400;}
+hr{width:250px; margin-left:15px;}
+.bilgiler{width:50%; height:330px; float:left;}
+
+.bilgiler p{margin-left:20px; margin-top:20px;}
+
+.maps{width:50%; float:left;  height:330px; }
+
+
+
+.sil{clear:both;}
+
+footer{height:285px; margin-top:55px;}
+
+.sol{float:left; width:50%; height:250px; padding:20px;}
+
+.sag{float:left; width:50%; height:250px; padding:20px;}
+
+footer i{font-size:25px; padding-top:25px; }
+
+footer p{width:100%; font-size:16px; margin:0; text-align:center; color:#000;}
+
+h2{text-align:center;}

@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.logo{height:70px; margin-left:55px;}
+
+.navbar-nav{margin-right:75px;}
+
+.menu a{color:#FFF;}
+
+.bannerpic{margin-top:50px; width:100%;}
+
+.icerik{margin-top:40px; margin-left:25px;}
+
+.alan1{float:left; width:200px; margin-left:15px; height:158px; background:#43B9F6; }
+.alan1 i{font-size:50px; margin-left:40%; margin-top:30px; color:#000;}
+
+.alan2{float:left; width:200px; margin-left:15px; height:158px; background:#6686FF; }
+.alan2 i{font-size:50px; margin-left:40%; margin-top:30px; color:#000; }
+
+.alan3{float:left; width:200px; margin-left:15px; height:158px; background:#8361FE; }
+.alan3 i{font-size:50px; margin-left:40%; margin-top:30px; color:#000; }
+
+.alan4{float:left; width:200px; margin-left:15px; height:158px; background:#D461FE; }
+.alan4 i{font-size:50px; margin-left:40%; margin-top:30px; color:#000; }
+
+.alan5{float:left; width:200px; margin-left:15px; height:158px; background:#ED4CCD; }
+.alan5 i{font-size:50px; margin-left:40%; margin-top:30px; color:#000; }
+
+.alan6{float:left; width:200px; margin-left:15px; height:158px; background:#E32552; }
+.alan6 i{font-size:50px; margin-left:37%; margin-top:30px; color:#000; }
+.alan6 p{ padding-left:80px; padding-right:50px; color:#000;}
+
+p{text-align:center; color:#000; font-size:19px; float:left; padding-left:28px; padding-right:28px; margin-top:20px;}
+
+.sil{clear:both;}
+
+.haber{float:left; width:98%; margin:auto;}
+
+.hbrler{margin-left:50px; width:500px; margin-top:70px;}
+
+.haberpic{width:500px; height:300px;}
+
+.card-text{text-align:left;}
+
+footer{height:285px; margin-top:55px;}
+
+.sol{float:left; width:50%; height:250px; padding:20px;}
+
+.sag{float:left; width:50%; height:250px; padding:20px;}
+
+footer i{font-size:25px; padding-top:25px; }
+
+footer p{width:100%; font-size:16px; margin:0;}
+
+h2{text-align:center;}

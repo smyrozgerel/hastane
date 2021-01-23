@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.logo{height:70px; margin-left:55px;}
+
+.navbar-nav{margin-right:75px;}
+
+.menu a{color:#FFF;}
+
+.bannerpic{margin-top:50px; width:100%;}
+
+
+.hakkimiz{height:280px; margin:auto;}
+.hakkimiz h2{font-weight:bold; margin-top:15px; margin-bottom:15px;}
+hr{width:40%; margin:auto;}
+.hakkimiz p{ padding-left:20px; padding-right:20px;  text-align:justify;}
+
+
+
+
+
+
+
+.sil{clear:both;}
+
+footer{height:285px; margin-top:55px;}
+
+.sol{float:left; width:50%; height:250px; padding:20px;}
+
+.sag{float:left; width:50%; height:250px; padding:20px;}
+
+footer i{font-size:25px; padding-top:25px; }
+
+footer p{width:100%; font-size:16px; margin:0; text-align:center; color:#000;}
+
+h2{text-align:center;}

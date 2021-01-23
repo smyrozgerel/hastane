@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.logo{height:70px; margin-left:55px;}
+
+.navbar-nav{margin-right:75px;}
+
+.menu a{color:#FFF;}
+
+.bannerpic{margin-top:50px; width:100%;}
+
+
+.doktorlar{height:500px; margin-left:10px;}
+.doktorlar h3{font-weight:bold; text-align:center; margin-top:10px;}
+hr{width:40%; margin:auto;}
+
+.content{width:200px; height:250px; background:#F2F2F2; margin-left:10px;  margin-right:10px; margin-top:15px; border-radius:10px; float:left;}
+
+.doktor{text-align:center; margin:7px;}
+
+.doktor img{height:200px;}
+
+.doktor p{margin:13px; text-align:center; font-size:17px; font-weight:500;}
+
+
+
+
+
+
+.sil{clear:both;}
+
+footer{height:285px; margin-top:55px;}
+
+.sol{float:left; width:50%; height:250px; padding:20px;}
+
+.sag{float:left; width:50%; height:250px; padding:20px;}
+
+footer i{font-size:25px; padding-top:25px; }
+
+footer p{width:100%; font-size:16px; margin:0; text-align:center; color:#000;}
+
+h2{text-align:center;}
